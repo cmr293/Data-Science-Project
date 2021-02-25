@@ -1,0 +1,25 @@
+INFO 2950 Phase I
+Sydney Bednar sb844
+Chloe Reynolds cmr293
+
+Github:
+https://github.com/cmr293/Data-Science-Project
+
+Dataset ideas:
+1. Songs and patterns in music: We want to look at datasets consisting of rpms, chord progression and other aspects of top 50 songs as well as datasets consisting of placement of song on the top 50 list. We will need to decide which characteristics to focus on. Is there a correlation between music characteristics and a song’s placement in the top 50? 
+
+2. Roku/cable box going out of style: We want to look at the growth of streaming services and decline of cable box use. We can look at user data, popularity of shows, viewership of streamed shows vs cable shows as well as subscribership. Is the cable box becoming obsolete?
+
+3. USDA nutritional data: We want to look at food trend datasets, such as diet fads and trending ingredients, as well as the USDA nutritional dataset that covers all their approved brands for the past 30 years. Has the US become healthier or not? Which ingredients have changed over the past 30 years? 
+
+4. Uber vs NYC taxi data: We want to look at Uber usage in NYC as well as taxi usage in NYC to look at possible future trends. What routes in the city are popular and why? Which types of people are using Uber? Has Uber taken over the city? 
+
+5. Superheroes: We want to look at superhero movies and their characteristics. We can look at Reddit threads/Instagram trends to see which characters grow popular based on viewers of different ages, time period, current events. Are there specific attributes of superheroes/main characters that make them popular? Do current events influence the portrayal of these characters?
+
+
+Questions for reviewers:
+-Is there any dataset idea that is too broad or could be narrowed down? How and Why?
+-Do you have any suggestions of where to start looking for some of this data?
+-How do you suggest looking at non-quantitative data? Is mixing quantitative data and non-quantitative data going to be an issue?
+Are there any options that seem over done?
+
